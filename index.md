@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 - bullet 1
 - bullet 2
+
 1. number 1
 2. number 2
 
