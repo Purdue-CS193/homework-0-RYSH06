@@ -1,3 +1,10 @@
+# Raphael's First CS193 Homework
+## Favorite things about CS193
+- **GREAT TAs**
+- Learning tools for great coding experience and collaboration
+- Unix and Terminal navigation
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -5,13 +12,6 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-- bullet 1
-- bullet 2
-
-1. number 1
-2. number 2
-
-**BOLD** and _ITALIC_ and `CODE`
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
