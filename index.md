@@ -9,6 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - bullet 2
 1. number 1
 2. number 2
+
 **BOLD** and _ITALIC_ and `CODE`
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
